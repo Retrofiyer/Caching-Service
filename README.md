@@ -49,7 +49,6 @@ The Caching Service is a lightweight microservice built with Node.js that provid
 ## Built With
 
 [![Node.js][nodejs.com]][nodejs-url]
-[![Swagger][swagger.com]][swagger-url]
 [![Docker][docker.com]][docker-url]
 
 <!-- GETTING STARTED -->
